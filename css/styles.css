@@ -1,0 +1,22 @@
+* {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#body {
+    height: 90%;
+    background: #edf2f4;
+}
+
+#image_map_container {
+    height: 100%;   
+}
+
+#main_image {
+    margin: 5% 25%;
+}
